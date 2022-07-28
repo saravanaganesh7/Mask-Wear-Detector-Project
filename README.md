@@ -16,7 +16,7 @@ on complete end-to-end machine learning project.
 
 # Deployed Application on Local host :
 
-![](ezgif-3-53aef99fa6.gif)
+![](ezgif-3-ee8d76ec03.gif)
 
 # Technical Aspect
 This Project is mainly divided into two parts:
