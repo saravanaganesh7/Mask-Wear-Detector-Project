@@ -16,7 +16,7 @@ on complete end-to-end machine learning project.
 
 ## 🎬 Deployed Application on Local host  🎬:
 
-!
+
 
 https://user-images.githubusercontent.com/63314917/183837238-699e68ac-bacb-4156-b0db-40a71380add9.mp4
 
