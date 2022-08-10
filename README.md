@@ -16,7 +16,11 @@ on complete end-to-end machine learning project.
 
 ## 🎬 Deployed Application on Local host  🎬:
 
-![](ezgif-3-ee8d76ec03.gif)
+!
+
+https://user-images.githubusercontent.com/63314917/183837238-699e68ac-bacb-4156-b0db-40a71380add9.mp4
+
+
 
 ## Technical Aspect
 This Project is mainly divided into two parts:
